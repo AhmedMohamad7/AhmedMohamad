@@ -15,11 +15,13 @@ I'm a passionate Junior Full Stack Developer who loves building web applications
 - **CSS3** (including Tailwind CSS)
 - **JavaScript**
 - **React**
+- **Open-AI**
 
 ### Backend
+- **SQL**
+- **PostgreSQL**
 - **Node.js** (currently learning)
 - **Express.js** (currently learning)
-- **SQL**
 - **MongoDB** (currently learning)
 
 ### Tools & Technologies
@@ -38,11 +40,12 @@ I'm a passionate Junior Full Stack Developer who loves building web applications
 - **Email**: [Ahmed.mohamad.ku7@gmail.com](mailto:Ahmed.mohamad.ku7@gmail.com)
 
 ## ✨ Fun Facts
-- 🎸 I love playing Billiard and Chess.
-- 🚴‍♂️ I enjoy going for very long walks.
+- 🎱 I love playing Billiard and Chess.
+- 🚶‍♂️ I enjoy going for very long walks.
 - 🍕 Pizza is my go-to comfort food.
 
 Thanks for stopping by! Feel free to check out my repositories and get in touch.
 
 ---
-⭐️ From Ahmed Mohamad (https://github.com/AhmedMohamad7)
+⭐️ My Portfolio (https://ahmedmohamad7.github.io/Portfolio/)
+⭐️ My LinkedIn (www.linkedin.com/in/ahmed-mohamad-779999319)
