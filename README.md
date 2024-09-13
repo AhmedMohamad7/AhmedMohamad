@@ -4,7 +4,7 @@ I'm a passionate Junior Full Stack Developer who loves building web applications
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Express.js**, **MongoDB**, and session management with **Node.js**.
+- 🌱 I’m currently exploring web and APP Development World
 - 🏫 I started my coding journey in an online bootcamp with a campus period at the end.
 - 💼 Open to new opportunities and collaborations.
 
